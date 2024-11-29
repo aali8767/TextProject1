@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/details_menu_sava"
+        android:icon="@drawable/check_24"
+        android:title="Sava"
+        app:showAsAction="always"/>
+    <item android:id="@+id/details_menu_edit"
+        android:icon="@drawable/edit_24"
+        android:title="edit"
+        app:showAsAction="always"/>
+    <item android:id="@+id/details_menu_delete"
+        android:icon="@drawable/cancel_24"
+        android:title="delete"
+        app:showAsAction="always"/>
+
+</menu>
